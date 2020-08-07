@@ -1,8 +1,13 @@
 #image {
+  display: block;
+  margin: auto;
   max-width: 100%;
   height: auto;
 }
 
 #img-div{
-    text-align: center;
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
 }
